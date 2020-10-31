@@ -21,5 +21,5 @@ Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 - **Magic:**  POSIX tar archive
 - **File size:**  168.85 MB (177055744 bytes)
 
-Official page: [https://reactos.org](https://reactos.org)
-Nightly builds: [https://reactos.org/getbuilds](https://reactos.org/getbuilds)
+- Official page: [https://reactos.org](https://reactos.org)
+- Nightly builds: [https://reactos.org/getbuilds](https://reactos.org/getbuilds)
